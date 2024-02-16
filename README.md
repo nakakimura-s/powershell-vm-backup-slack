@@ -17,4 +17,5 @@ Set-ExecutionPolicy RemoteSigned
 ![image](https://github.com/nakakimura-s/powershell-vm-backup-slack/assets/160193589/e0b30fcb-1521-4408-942c-01158a3a42e0)
 
 プログラム：C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
-引数；C:\ps1\powershell-vm-backup-slack.ps1 ※ファイルの配置先
+
+引数：C:\ps1\powershell-vm-backup-slack.ps1 ※ファイルの配置先
